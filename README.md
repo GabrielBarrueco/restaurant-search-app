@@ -1,4 +1,4 @@
-# Restaurant Seatch App
+# Restaurant Search App
 
 Aplicativo desenvolvido com React Native.
 
